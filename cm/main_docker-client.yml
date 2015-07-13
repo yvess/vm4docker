@@ -1,0 +1,7 @@
+---
+# file: main_docker-client.yml
+
+- hosts: osx
+  roles:
+    - yvess.vm4docker-client
+

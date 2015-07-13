@@ -1,0 +1,5 @@
+[osx]
+localhost ansible_connection=local docker_hostip=192.168.13.128 docker_gatewayip=192.168.13.1 docker_mac=0e:0c:23:bf:2e:3b
+
+[docker]
+docker docker_gatewayip=192.168.13.1

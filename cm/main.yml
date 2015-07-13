@@ -1,0 +1,6 @@
+---
+# file: main.yml
+
+- include: main_docker-client.yml
+- include: main_docker.yml
+

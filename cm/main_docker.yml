@@ -1,0 +1,6 @@
+---
+# file: main_docker.yml
+
+- hosts: docker
+  roles:
+    - yvess.vm4docker-server
